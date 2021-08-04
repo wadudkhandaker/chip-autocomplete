@@ -1,7 +1,13 @@
+
 ## ChipAutocomplete
 
 Angular chip-autocomplete is a Formcontrol where you can create chips with autocomplete with clientside and server side option filtering which can be used with Reactive Forms as a normal formcontrol like ```<input>``` ```<select>```
+  
+## Demo
 
+### check out **[Live Demo](https://chip-autocomplete-example.stackblitz.io/)**
+
+code: [stackblitz](https://stackblitz.com/edit/chip-autocomplete-example)
 
 ## Getting Started
 
@@ -61,3 +67,4 @@ You don't need ```<mat-form-field>``` around this control. It was given under th
 | isChipAddFromInput | boolean | false | whether the text not found in dropdown is allowed to add to chips |
 | isOptionCheckable | boolean | false | whether Options can be added to chips with checkbox |
 | disabledSelected | boolean | true | Whether previously selected options will be disabled and prevent to select |
+
